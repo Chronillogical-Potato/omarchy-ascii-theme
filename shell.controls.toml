@@ -1,0 +1,28 @@
+# Box-drawn controls: hairline paper borders, amber on focus.
+normal-color        = "#cfccc4"
+normal-fill-alpha   = 0.0
+normal-border       = "#cfccc4"
+normal-border-width = 1
+normal-border-alpha = 0.35
+
+hover-cursor-color        = "#f4f1e8"
+hover-cursor-fill-alpha   = 0.06
+hover-cursor-border       = "#cfccc4"
+hover-cursor-border-width = 1
+hover-cursor-border-alpha = 0.7
+
+focus-color        = "#f4f1e8"
+focus-fill-alpha   = 0.06
+focus-border       = "#f0a640"
+focus-border-width = 1
+focus-border-alpha = 1.0
+
+selected-color        = "#f0a640"
+selected-fill-alpha   = 0.12
+selected-border       = "#f0a640"
+selected-border-width = 1
+selected-border-alpha = 0.9
+
+pressed-fill-alpha   = 0.2
+selection-fill-alpha = 0.35
+

@@ -1,0 +1,10 @@
+# Paper frame with a heavier left rule, like a margin note.
+background        = "#0d0d0c"
+background-alpha  = 1.0
+text              = "#cfccc4"
+border            = "hyprland.active-border"
+border-alpha      = 1.0
+border-width      = 1
+border-width-left = 4
+countdown         = "#f0a640"
+

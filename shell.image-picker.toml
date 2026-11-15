@@ -1,0 +1,6 @@
+text                    = "#cfccc4"
+selected-border         = "#f0a640"
+selected-border-alpha   = 1.0
+unselected-border       = "#cfccc4"
+unselected-border-alpha = 0.2
+

@@ -1,0 +1,35 @@
+# ASCII — ink, paper, and one amber phosphor.
+mode = "dark"
+
+accent = "#f0a640"
+selection = "#2b2a27"
+muted = "#55534e"
+
+background = "#0d0d0c"
+dark_background = "#090908"
+darker_background = "#050505"
+lighter_background = "#171716"
+
+foreground = "#cfccc4"
+dark_foreground = "#6f6c66"
+light_foreground = "#a8a59d"
+bright_foreground = "#f4f1e8"
+
+hyprland_active_border = "rgba(cfccc4ff)"
+hyprland_inactive_border = "rgba(2b2a27ff)"
+
+red = "#d0786a"
+yellow = "#e2c27a"
+orange = "#f0a640"
+green = "#a3b07e"
+cyan = "#8fb3a8"
+blue = "#8ea3b8"
+magenta = "#b493a6"
+brown = "#8b6b48"
+
+bright_red = "#e89585"
+bright_yellow = "#f2d79a"
+bright_green = "#bfcb99"
+bright_cyan = "#aacdc2"
+bright_blue = "#aabdd0"
+bright_magenta = "#cdb0c1"

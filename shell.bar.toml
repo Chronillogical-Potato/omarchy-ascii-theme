@@ -1,0 +1,9 @@
+# Flat ink bar. Attention states glow amber instead of red.
+background       = "#0d0d0c"
+background-alpha = 1.0
+text             = "#cfccc4"
+active           = "#f0a640"
+scale-with-font  = true
+size-horizontal  = 26
+size-vertical    = 28
+

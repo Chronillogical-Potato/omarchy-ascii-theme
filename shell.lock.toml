@@ -1,0 +1,13 @@
+# Idle paper, amber while typing, red on a wrong password.
+background       = "#0d0d0c"
+background-alpha = 1.0
+text             = "#f4f1e8"
+placeholder      = "#6f6c66"
+text-error       = "#d0786a"
+border           = "#cfccc4"
+border-active    = "#f0a640"
+border-error     = "#d0786a"
+border-alpha     = 1.0
+selection        = "#f0a640"
+selection-alpha  = 0.35
+
