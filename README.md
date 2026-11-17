@@ -37,9 +37,9 @@ The palette and shell files are colour only. A theme installed from git therefor
 | bright_foreground | `#f4f1e8` |
 | accent | `#f0a640` |
 | selection | `#2b2a27` |
-| muted | `#55534e` |
+| muted | `#807d76` |
 
-The ANSI colours are deliberately muted (`#d0786a` red, `#a3b07e` green, `#8ea3b8` blue, …), so diffs and syntax stay readable without breaking the monochrome feel.
+The ANSI yellow slot holds a muted amber, `#dea966`, so terminal output keeps the orange look. The other ANSI colours stay muted, for example `#d0786a` red, `#a3b07e` green and `#8ea3b8` blue. Diffs and syntax stay readable without breaking the monochrome feel.
 
 ## Recommended
 
